@@ -1,0 +1,14 @@
+wide_x: 2560
+wide_y: 1600
+conf: 0.25
+model_name: 'csgo_5n.engine'
+monitor:
+  top: 640
+  left: 1120
+  width: 320
+  height: 320
+pid_parameters:
+  kp: 0.5
+  ki: 0.4
+  kd: 0.001
+  imax: 20
